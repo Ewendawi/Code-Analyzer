@@ -1,0 +1,4 @@
+dash>=2.15
+dash-cytoscape>=0.3.0
+networkx>=3.1
+pyvis>=0.3.2
